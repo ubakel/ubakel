@@ -48,8 +48,10 @@
 
 <p align="center">
   <sub>
-    Open work: <a href="https://github.com/obaiosama/whatsapp-clinic-booking-assistant">clinic assistant demo</a> &nbsp;·&nbsp;
-    <a href="https://github.com/ubakel/Supervity_CC">Inbound Revenue Command Center</a> &nbsp;·&nbsp;
+    Open work: <a href="https://github.com/ubakel/whatsapp-clinic-booking-assistant">WhatsApp clinic assistant</a> &nbsp;·&nbsp;
+    <a href="https://github.com/ubakel/ap-invoice-automation-engine">AP invoice engine</a> &nbsp;·&nbsp;
+    <a href="https://github.com/ubakel/solar-report-automation">Solar report automation</a> &nbsp;·&nbsp;
+    <a href="https://github.com/ubakel/finance-os-notion">Finance OS</a> &nbsp;·&nbsp;
     <a href="https://github.com/ubakel/ubakel-web">ubakel.com source</a>
   </sub>
 </p>
