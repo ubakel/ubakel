@@ -42,7 +42,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/selected-work-dark.png">
-    <img alt="Selected work: solar bill review and the Intelicare clinic assistant." src="assets/selected-work-light.png" width="100%">
+    <img alt="Selected work: solar bill review and the WhatsApp clinic assistant." src="assets/selected-work-light.png" width="100%">
   </picture>
 </div>
 
