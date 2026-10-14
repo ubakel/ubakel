@@ -42,13 +42,13 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/selected-work-dark.png">
-    <img alt="Selected work: solar bill review and the WhatsApp clinic assistant." src="assets/selected-work-light.png" width="100%">
+    <img alt="Selected work: solar bill review and Ubakel Front Desk." src="assets/selected-work-light.png" width="100%">
   </picture>
 </div>
 
 <p align="center">
   <sub>
-    Open work: <a href="https://github.com/ubakel/whatsapp-clinic-booking-assistant">WhatsApp clinic assistant</a> &nbsp;·&nbsp;
+    Open work: <a href="https://github.com/ubakel/whatsapp-clinic-booking-assistant">Ubakel Front Desk</a> &nbsp;·&nbsp;
     <a href="https://github.com/ubakel/ap-invoice-automation-engine">AP invoice engine</a> &nbsp;·&nbsp;
     <a href="https://github.com/ubakel/solar-report-automation">Solar report automation</a> &nbsp;·&nbsp;
     <a href="https://github.com/ubakel/finance-os-notion">Finance OS</a> &nbsp;·&nbsp;
